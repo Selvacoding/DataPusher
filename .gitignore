@@ -2,3 +2,4 @@ venv
 test.txt
 sql.txt
 .vscode
+db.sqlite3
